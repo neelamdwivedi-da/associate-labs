@@ -47,7 +47,7 @@
 *This problem has three parts*
 
 1. Write a function named **doubleMe** that takes an integer and returns its double 
-2. Write another function called **doubleUs** that takes two integers, doubles each of them, adds them up and returns the result. This function should use **doubleMe** in its definition to demonstrate composing complex functions using simple ones. 
+2. Using the **doubleMe** function, write another function called **doubleUs** that takes two integers, doubles each of them, adds them up and returns the result.
 
     As a sample, the following statements: 
 
@@ -70,7 +70,7 @@
     14
     ```
 
-3. Write an expression in the test-script using **doubleUs** in an **inFix notation** to get the same result as 
+3. Write an expression in the test-script using **doubleUs** with an **inFix notation** to get the same result as 
 
     ```
     debug $ doubleUs 3 4
