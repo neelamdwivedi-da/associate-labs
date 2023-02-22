@@ -57,10 +57,12 @@ should print
 
 Hint: You may find the following functions useful:
 
+Text functions
+- [words](https://docs.daml.com/daml/stdlib/DA-Text.html#function-da-text-words-34636)
+
 List functions
 - [length](https://docs.daml.com/daml/stdlib/Prelude.html#function-da-internal-prelude-length-32819)
 - [filter](https://docs.daml.com/daml/stdlib/Prelude.html#function-da-internal-prelude-filter-41317) 
 
 Data type conversion
 - [intToDecimal](https://docs.daml.com/daml/stdlib/Prelude.html#function-da-internal-prelude-inttodecimal-16628)
-
