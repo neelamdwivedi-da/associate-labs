@@ -62,7 +62,7 @@ Create a data-type called **AirtravelPoint** that has just one field named count
 
 Create a type-class named **Redeemable** with a function **redeem**.
 
-Make AirtravelPoint and DiningPoint instances of Redeemable, making its redeem function return a Decimal value based on the formulae given in the table above. 
+Make AirtravelPoint and DiningPoint instances of Redeemable, making their redeem functions return a Decimal value based on the formula given in the table above. 
 
 Then test your code using the script given below:
 
