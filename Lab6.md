@@ -74,9 +74,9 @@ testRedeemable = script do
         myDiningPoints = DiningPoint with 
             count = 5000
 
-        myTotalRedeemedPoings: Decimal = redeem myTravelPoints + redeem myDiningPoints
+        myTotalRedeemedPoints: Decimal = redeem myTravelPoints + redeem myDiningPoints
 
-    debug  myTotalRedeemedPoings 
+    debug  myTotalRedeemedPoints 
    
     return()
 ```
