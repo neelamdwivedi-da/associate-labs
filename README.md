@@ -15,6 +15,6 @@ Course: **Functional Programming In Daml**
 | 08. Typeclasses and records                                               | [Lab3](https://github.com/neelamdwivedi-da/associate-labs/blob/main/Lab3.md) |
 | 09. Conditional control flow                                              | [Lab4](https://github.com/neelamdwivedi-da/associate-labs/blob/main/Lab4.md) |
 | 10. Iterative control flow                                                | [Lab5](https://github.com/neelamdwivedi-da/associate-labs/blob/main/Lab5.md) |
-| 11. Type variables                                                        | Lab6 |
+| 11. Type variables                                                        | [Lab6](https://github.com/neelamdwivedi-da/associate-labs/blob/main/Lab6.md) |
 
 
