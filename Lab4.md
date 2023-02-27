@@ -13,10 +13,10 @@ A University has the following grading-scheme based on scores out of 100 points.
 
 | Score            | Letter grade |
 |------------------|------------- |
-| 90 or above      | A            |
-| 80 to 90         | B            |
-| 70 to 80         | C            |
-| Less than 70     | F            |
+| 90.0 or above      | A            |
+| from 80.0 to less than or equal to 90.0         | B            |
+| from 70.0 to less that or equal to 80.0         | C            |
+| Less than 70.0     | F            |
 
 
 Write four functions as specified below:
