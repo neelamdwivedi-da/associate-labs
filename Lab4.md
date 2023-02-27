@@ -21,9 +21,6 @@ A University has the following grading-scheme based on scores out of 100 points.
 
 Write four functions as specified below:
 
-The getLetterGradeUsingIf 
-
-
 
 | Function            | Specification |
 |------------------|------------- |
