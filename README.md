@@ -18,3 +18,14 @@ Course: **Functional Programming In Daml**
 | 11. Type variables                                                        | [Lab6](https://github.com/neelamdwivedi-da/associate-labs/blob/main/Lab6.md) |
 
 
+Course: **Canton Ledger Programming in Daml**
+
+
+
+| Lessons                                                                   | Lab  |
+|---------------------------------------------------------------------------|------|
+| 03. Writing a Template<br>04. Testing a Template |[Lab7](https://github.com/neelamdwivedi-da/associate-labs/blob/main/Lab7.md) |
+| 05. Identifying contracts<br>06. Transaction trees<br>07. Retrieving contracts                | Lab8 |
+| 08. Functor, applicative, and action                                               | Lab9 |
+| 09. Actions and loops                                              | Lab10 |
+
