@@ -4,7 +4,7 @@
 
 **Prerequisite**
 1. Daml SDK installed and setup
-2. Daml Associate Training: Functional Programming in Daml - Lessons 1 to 8 completed.
+2. Daml Fundamentals Training: Functional Programming in Daml - Lessons 1 to 8 completed.
 
 ## Problem statement 1
 *This problem has two parts*
